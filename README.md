@@ -1,6 +1,6 @@
 # prime-paths
 
-Eina de línia d'ordres per calcular els camins primers d'un graf.
+Eina de línia d'ordres per calcular els prime-paths d'un graf.
 
 ## Requisits
 
@@ -30,7 +30,7 @@ node prime-path-coverage.js grafs/testcase2.txt
 node prime-path-coverage.js grafs/testcase3.txt
 ```
 
-L'script mostra el nombre de camins primers trobats i els nodes de cada camí. Si el camí cap al fitxer conté espais, poseu-lo entre cometes.
+L'script mostra el nombre de prime-paths trobats i els nodes de cada camí. Si el camí cap al fitxer conté espais, poseu-lo entre cometes.
 
 ## Format del fitxer d'entrada
 
